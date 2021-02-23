@@ -1,0 +1,5 @@
+rounds:2
+key_size:9
+block_size:12
+encoding_type:B6
+q:199
